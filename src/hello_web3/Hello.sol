@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.4;
 
+// link to the tutorial: https://www.wtf.academy/solidity-start/HelloWeb3/
+
 contract HelloWeb3 {
     string public message;
 

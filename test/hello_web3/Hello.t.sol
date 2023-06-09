@@ -2,7 +2,7 @@
 pragma solidity ^0.8.4;
 
 import "forge-std/Test.sol";
-import "../src/Hello.sol";
+import "../../src/hello_web3/Hello.sol";
 
 contract HelloTest is Test {
     HelloWeb3 public hello;
